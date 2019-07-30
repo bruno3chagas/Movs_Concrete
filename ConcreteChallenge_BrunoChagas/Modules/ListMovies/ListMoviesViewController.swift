@@ -235,5 +235,9 @@ extension ListMoviesViewController: UISearchBarDelegate {
             presenter.didEnterSearch(text)
         }
     }
+    func searchBarSearchButtonClicked(_ searchBar: UISearchBar) {
+        searchBar.endEditing(true)
+    }
+    
 }
 
