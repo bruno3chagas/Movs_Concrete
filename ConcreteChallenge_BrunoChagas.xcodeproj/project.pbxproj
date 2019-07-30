@@ -130,9 +130,9 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		109F92F899122F84F304AC35 /* Pods-ConcreteChallenge_BrunoChagasUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ConcreteChallenge_BrunoChagasUITests.release.xcconfig"; path = "Target Support Files/Pods-ConcreteChallenge_BrunoChagasUITests/Pods-ConcreteChallenge_BrunoChagasUITests.release.xcconfig"; sourceTree = "<group>"; };
-		3784465B23FC5A21D1534BBC /* Pods-ConcreteChallenge_BrunoChagas.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ConcreteChallenge_BrunoChagas.release.xcconfig"; path = "Target Support Files/Pods-ConcreteChallenge_BrunoChagas/Pods-ConcreteChallenge_BrunoChagas.release.xcconfig"; sourceTree = "<group>"; };
-		461630AA569412338AD81AB8 /* Pods-ConcreteChallenge_BrunoChagasTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ConcreteChallenge_BrunoChagasTests.release.xcconfig"; path = "Target Support Files/Pods-ConcreteChallenge_BrunoChagasTests/Pods-ConcreteChallenge_BrunoChagasTests.release.xcconfig"; sourceTree = "<group>"; };
+		109F92F899122F84F304AC35 /* Pods-ConcreteChallenge_BrunoChagasUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-ConcreteChallenge_BrunoChagasUITests.release.xcconfig"; sourceTree = "<group>"; };
+		3784465B23FC5A21D1534BBC /* Pods-ConcreteChallenge_BrunoChagas.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-ConcreteChallenge_BrunoChagas.release.xcconfig"; sourceTree = "<group>"; };
+		461630AA569412338AD81AB8 /* Pods-ConcreteChallenge_BrunoChagasTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-ConcreteChallenge_BrunoChagasTests.release.xcconfig"; sourceTree = "<group>"; };
 		7CC5F044664AAD7FDB6365F9 /* Pods_ConcreteChallenge_BrunoChagas.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_ConcreteChallenge_BrunoChagas.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		9E32E24C22E8BFD600CB4CE4 /* ConcreteChallenge_BrunoChagas.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ConcreteChallenge_BrunoChagas.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9E32E24F22E8BFD600CB4CE4 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -240,11 +240,11 @@
 		9E818CE722E8D064001D45E8 /* APIClient.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = APIClient.swift; path = ../../../../../../System/Volumes/Data/Users/brunochagas/ConcreteChallenge_BrunoChagas/ConcreteChallenge_BrunoChagas/Data/API/APIClient.swift; sourceTree = "<group>"; };
 		9E818CEF22E919FA001D45E8 /* PosterEntity.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = PosterEntity.swift; path = ../../../../../../System/Volumes/Data/Users/brunochagas/ConcreteChallenge_BrunoChagas/ConcreteChallenge_BrunoChagas/Data/Entities/PosterEntity.swift; sourceTree = "<group>"; };
 		9E818CF122E9F31C001D45E8 /* EntityContract.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = EntityContract.swift; path = ../../../../../../System/Volumes/Data/Users/brunochagas/ConcreteChallenge_BrunoChagas/ConcreteChallenge_BrunoChagas/Data/Entities/EntityContract.swift; sourceTree = "<group>"; };
-		A35BEBEE8D920AA375D35246 /* Pods-ConcreteChallenge_BrunoChagas.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ConcreteChallenge_BrunoChagas.debug.xcconfig"; path = "Target Support Files/Pods-ConcreteChallenge_BrunoChagas/Pods-ConcreteChallenge_BrunoChagas.debug.xcconfig"; sourceTree = "<group>"; };
-		A6189BB845D7A23FBD79FE08 /* Pods-ConcreteChallenge_BrunoChagasUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ConcreteChallenge_BrunoChagasUITests.debug.xcconfig"; path = "Target Support Files/Pods-ConcreteChallenge_BrunoChagasUITests/Pods-ConcreteChallenge_BrunoChagasUITests.debug.xcconfig"; sourceTree = "<group>"; };
+		A35BEBEE8D920AA375D35246 /* Pods-ConcreteChallenge_BrunoChagas.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-ConcreteChallenge_BrunoChagas.debug.xcconfig"; sourceTree = "<group>"; };
+		A6189BB845D7A23FBD79FE08 /* Pods-ConcreteChallenge_BrunoChagasUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-ConcreteChallenge_BrunoChagasUITests.debug.xcconfig"; sourceTree = "<group>"; };
 		AEDEF456AB54418368682770 /* Pods_ConcreteChallenge_BrunoChagasTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_ConcreteChallenge_BrunoChagasTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		D9F4F1CBE934E2374759AD0B /* Pods_ConcreteChallenge_BrunoChagasUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_ConcreteChallenge_BrunoChagasUITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		FE546DF162D21AA716E23A64 /* Pods-ConcreteChallenge_BrunoChagasTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ConcreteChallenge_BrunoChagasTests.debug.xcconfig"; path = "Target Support Files/Pods-ConcreteChallenge_BrunoChagasTests/Pods-ConcreteChallenge_BrunoChagasTests.debug.xcconfig"; sourceTree = "<group>"; };
+		FE546DF162D21AA716E23A64 /* Pods-ConcreteChallenge_BrunoChagasTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-ConcreteChallenge_BrunoChagasTests.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -294,8 +294,8 @@
 				9E32E24E22E8BFD600CB4CE4 /* ConcreteChallenge_BrunoChagas */,
 				9E32E26322E8BFE200CB4CE4 /* ConcreteChallenge_BrunoChagasTests */,
 				9E32E26E22E8BFE200CB4CE4 /* ConcreteChallenge_BrunoChagasUITests */,
-				9E32E24D22E8BFD600CB4CE4 /* Products */,
 				93E1A728379DDF4E6E4235D5 /* Pods */,
+				9E32E24D22E8BFD600CB4CE4 /* Products */,
 				A1C21454F5D767734073B1E5 /* Frameworks */,
 			);
 			sourceTree = "<group>";
